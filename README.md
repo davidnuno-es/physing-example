@@ -45,6 +45,7 @@ Por último, navega a la dirección IP de la instancia de Docker.
 ## Autor
 
 * **David Nuño** - *Trabajo inicial* - [DavidNuno.es](https://github.com/davidnuno-es)
+* **Mike Woodward** - *Facebook Login Page Clon* - [@citizenwoodward](https://codepen.io/citizenwoodward)
 
 ## Licencia
 
